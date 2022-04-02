@@ -8,9 +8,21 @@ The aim of this project is to build a virtual assistant that assists in day-to-d
 The assistant can help in tasks like –<br>
 1. Getting news – sports, politics, education, science, technology, biology, etc
 2. Getting current weather
-Telling a joke
-Answering general knowledge questions
-Getting Covid cases
-Getting CPU usage details
-Searching and opening YouTube video
+3. Telling a joke
+4. Answering general knowledge questions
+5. Getting Covid cases
+6. Getting CPU usage details
+7. Searching and opening YouTube video
+
+References - 
+
+1. [online]: https://pypi.org/project/SpeechRecognition/
+2. Bridget Botelho “Virtual Assistant (AI Assistant) [online]: https://www.techtarget.com/searchcustomerexperience/definition/virtual-assistant-AI-assistant
+3. Admond Lee “How to build A Speech Recognition Bot with Python” [online]: https://www.techtarget.com/searchcustomerexperience/definition/virtual-assistant-AI-assistant
+4. Wolfram Alpha API Documentation [online]: https://products.wolframalpha.com/simple-api/documentation/
+5. [online]: https://github.com/vinay1001/Virtual-Assistant-AI-Project.git
+6. Abhishek Srivastav “Build a Virtual Assistant using Python” [online]: https://www.geeksforgeeks.org/build-a-virtual-assistant-using-python/
+7. “How to Create your AI Virtual Assistant using Python” [online]: https://www.analyticsvidhya.com/blog/2020/09/ai-virtual-assistant-using-python/
+
+
 
