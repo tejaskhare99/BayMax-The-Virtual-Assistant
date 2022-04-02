@@ -12,7 +12,13 @@ The assistant can help in tasks like –<br>
 4. Answering general knowledge questions
 5. Getting Covid cases
 6. Getting CPU usage details
-7. Searching and opening YouTube video
+7. Searching and opening YouTube video]
+
+To run - 
+
+```
+!git clone 
+```
 
 References - 
 
