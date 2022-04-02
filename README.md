@@ -13,5 +13,4 @@ Answering general knowledge questions
 Getting Covid cases
 Getting CPU usage details
 Searching and opening YouTube video
-![image](https://user-images.githubusercontent.com/49532169/161396012-4ef8a00c-73a8-44ba-b885-3997810e288f.png)
 
