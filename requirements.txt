@@ -1,0 +1,9 @@
+pyautogui # For performing some GUI operation
+pyttsx3
+pyjokes
+pywhatkit
+smtplib
+wolframalpha
+newsapi
+requests
+speech-recognition
