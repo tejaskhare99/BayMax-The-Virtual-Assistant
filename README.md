@@ -17,8 +17,13 @@ The assistant can help in tasks like –<br>
 To run - 
 
 ```
-!git clone 
+!git clone https://github.com/tejaskhare99/BayMax-The-Virtual-Assistant.git
+!cd BayMax-The-Virtual-Assistant
+!pip install -r requirements.txt
+
+!python assistant.py
 ```
+
 
 References - 
 
