@@ -1,0 +1,2 @@
+pyautogui # For performing some GUI operation
+pyttsx3
